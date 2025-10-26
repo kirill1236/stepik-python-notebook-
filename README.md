@@ -1,2 +1,3 @@
-# stepik-python-notebook-
-тетрадь по степик 
+# stepik-python-notebook- КАЖДЫЙ ДЕНЬ
+тетрадь по степик КАЖДЫЙ ДЕНЬ
+КАЖДЫЙ ДЕНЬ
